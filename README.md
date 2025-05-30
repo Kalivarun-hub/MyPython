@@ -1,9 +1,8 @@
 # MyPython
-This is Api and configurations
+**This is Scds project and spotipy**
 
 
 #Libraries
-pandas,sqlalchemy
-spotipy
+pandas,sqlalchemyspotipy
 
 
